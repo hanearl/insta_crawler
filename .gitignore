@@ -1,0 +1,9 @@
+# Project exclude paths
+/venv
+images
+driver
+data
+notebook.ipynb
+test*
+.idea
+.ipynb_checkpoints
